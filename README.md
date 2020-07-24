@@ -19,7 +19,7 @@
 <p align="center">
 <a href="https://twitter.com/ambroise_hound" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ambroise_hound" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/ambroise-houndonougbo-948380183" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ambroise-houndonougbo-948380183" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/ambroise" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="ambroise" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/users/13985570/ambroise" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="ambroise" height="20" width="20" /></a>
 <a href="https://instagram.com/ambroise_hound" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ambroise_hound" height="20" width="20" /></a>
 <a href="https://www.youtube.com/c/informatutos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="informatutos" height="20" width="20" /></a>
 </p>
