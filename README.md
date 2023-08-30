@@ -2,7 +2,7 @@
 <h3 align="center">Programmer and Full Stack Web | Mobile Developer. I am passionate about Computer Security and Founder Of <a href="https://twitter.com/yieldigit" style="color:white" target="blank">@YielDigit</a>
 </h3>
 
-- 🔭 I’m currently learning Ruby, Ruby Rails Framework
+- 🔭 I’m currently learning Ruby, Ruby on Rails Framework
 
 - 📫 How to reach me **contact@ambroisehdn.me**
 
